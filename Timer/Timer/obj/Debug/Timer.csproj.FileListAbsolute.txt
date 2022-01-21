@@ -8,3 +8,13 @@ C:\Users\anton\source\repos\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.
 C:\Users\anton\source\repos\Timer\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
 C:\Users\anton\source\repos\Timer\Timer\obj\Debug\Timer.exe
 C:\Users\anton\source\repos\Timer\Timer\obj\Debug\Timer.pdb
+C:\Users\anton\Desktop\Portfolio\Timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\anton\Desktop\Portfolio\Timer\Timer\bin\Debug\Timer.exe
+C:\Users\anton\Desktop\Portfolio\Timer\Timer\obj\Debug\Timer.csproj.AssemblyReference.cache
+C:\Users\anton\Desktop\Portfolio\Timer\Timer\obj\Debug\Timer.Form1.resources
+C:\Users\anton\Desktop\Portfolio\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\anton\Desktop\Portfolio\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+C:\Users\anton\Desktop\Portfolio\Timer\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\Portfolio\Timer\Timer\obj\Debug\Timer.exe
+C:\Users\anton\Desktop\Portfolio\Timer\Timer\obj\Debug\Timer.pdb
+C:\Users\anton\Desktop\Portfolio\Timer\Timer\bin\Debug\Timer.pdb

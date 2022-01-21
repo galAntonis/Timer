@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Drawing.Text;
+using System.Media;
 
 namespace Timer
 {
@@ -75,6 +76,10 @@ namespace Timer
             else
             {
                 timer1.Stop();
+                using (var soundPlayer = new SoundPlayer(@"197713__a10fjet__proximity.wav"))
+                {
+                    soundPlayer.Play(); // can also use soundPlayer.PlaySync()
+                }
                 MessageBox.Show("Time's up!");
                 button1.Enabled = true;
                 button2.Enabled = false;
